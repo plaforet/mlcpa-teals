@@ -4,25 +4,132 @@
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in chronological order. Each row represents one day of class, based on a medium-paced class. Readings from the textbook and homework assignments are included on the day when they should be assigned. Refer to the Introduction document for information about how to adjust this pacing for your specific classroom.
 
-* ​[Unit 1 Slides](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit1.pptx)​
-* ​[Unit 1 Word Bank](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/Unit%201%20Word%20Bank.docx)​
-* ​[Curriculum Assets](https://tealsk12.gitbook.io/apcsa/assets)​
+* ​Unit 1 Slides​
+* ​Unit 1 Word Bank​
+* ​Curriculum Assets​
 
-| **LP** | **Title** | **In Class** | **Reading** | **Homework** |
-| :--- | :--- | :--- | :--- | :--- |
-| [​1.01](https://mlcpa-teals.gitbook.io/project/unit-1-programming-and-java/lesson-1.01-using-eclipse-and-practice-it)​ | _Using Eclipse & Practice-It_ | ​[WS 1.1.1](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx) [WS 1.1.2](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx)​ | ​ | Explore Pokémon \(pokemon.com, console, web site\) |
-| ​[1.02](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102)​ | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment Continue exploring Pokémon |
-| ​[1.03](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103)​ | _String & Console Output_ | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.3 | EX 1.1–5 |
-| ​[1.04](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104)​ | _Common Errors & Comments_ | ​[WS 1.4](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx)​ | 1.4 | EX 1.6–9 |
-| ​[1.05](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-105)​ | _Static Methods & Method Calls_ | Practice-It SC 1.22, 1.23, 1.26, 1.29 | 1.5 | EX 1.11, 1.12, 1.14, 1.16 |
-| ​[1.06](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-106)​ | _Static Methods & Method Calls_ | LP StarFigures LP PikachuChatter | ​ | Outline ch 1 PP 1.1, 1.3 |
-| ​[1.07](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-107)​ | _Programming Project_ | PP 1.2, 1.5 | ​ | Note check \(add summaries if needed\) |
-| ​[1.08](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-108)​ | _Finding & Fixing Errors_ | Fix homework | Review ch 1 | Submit questions for review |
-| ​[1.09](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-109)​ | _Review_ | Review questions [WS 1.9](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.9.docx) Practice test | ​ | Study |
-| ​[1.99](https://tealsk12.gitbook.io/apcsa/curriculum-maps/unit1-map#199)​ | _Unit 1 Test_ | Test 0 Section I Test 0 Section II | ​ | ​ |
-| ​[1.XX](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-1xx)​ | _Lesson 1.07 Alternative_ | Ideate and Construct Project | ​ | ​ |
-
-## 1.01 <a id="1-01"></a>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"><b>LP</b>
+      </th>
+      <th style="text-align:left"><b>Title</b>
+      </th>
+      <th style="text-align:left"><b>In Class</b>
+      </th>
+      <th style="text-align:left"><b>Reading</b>
+      </th>
+      <th style="text-align:left"><b>Homework</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><a href="https://mlcpa-teals.gitbook.io/project/unit-1-programming-and-java/lesson-1.01-using-eclipse-and-practice-it">​1.01</a>​</td>
+      <td
+      style="text-align:left"><em>Using Eclipse & Practice-It</em>
+        </td>
+        <td style="text-align:left">
+          <p>​WS 1.1.1</p>
+          <p>WS 1.1.2​</p>
+        </td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">Explore Pokémon (pokemon.com, console, web site)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102">1.02</a>​</td>
+      <td
+      style="text-align:left"><em>Algorithms & Computational Thinking</em>
+        </td>
+        <td style="text-align:left">PB&J</td>
+        <td style="text-align:left">1.2</td>
+        <td style="text-align:left">Reflect on PB&J assignment Continue exploring Pokémon</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103">1.03</a>​</td>
+      <td
+      style="text-align:left"><em>String & Console Output</em>
+        </td>
+        <td style="text-align:left">Practice-It SC 1.6–9, 1.11–14 LP Welcome</td>
+        <td style="text-align:left">1.3</td>
+        <td style="text-align:left">EX 1.1–5</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104">1.04</a>​</td>
+      <td
+      style="text-align:left"><em>Common Errors & Comments</em>
+        </td>
+        <td style="text-align:left">​<a href="https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx">WS 1.4</a>​</td>
+        <td
+        style="text-align:left">1.4</td>
+          <td style="text-align:left">EX 1.6–9</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-105">1.05</a>​</td>
+      <td
+      style="text-align:left"><em>Static Methods & Method Calls</em>
+        </td>
+        <td style="text-align:left">Practice-It SC 1.22, 1.23, 1.26, 1.29</td>
+        <td style="text-align:left">1.5</td>
+        <td style="text-align:left">EX 1.11, 1.12, 1.14, 1.16</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-106">1.06</a>​</td>
+      <td
+      style="text-align:left"><em>Static Methods & Method Calls</em>
+        </td>
+        <td style="text-align:left">LP StarFigures LP PikachuChatter</td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">Outline ch 1 PP 1.1, 1.3</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-107">1.07</a>​</td>
+      <td
+      style="text-align:left"><em>Programming Project</em>
+        </td>
+        <td style="text-align:left">PP 1.2, 1.5</td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">Note check (add summaries if needed)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-108">1.08</a>​</td>
+      <td
+      style="text-align:left"><em>Finding & Fixing Errors</em>
+        </td>
+        <td style="text-align:left">Fix homework</td>
+        <td style="text-align:left">Review ch 1</td>
+        <td style="text-align:left">Submit questions for review</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-109">1.09</a>​</td>
+      <td
+      style="text-align:left"><em>Review</em>
+        </td>
+        <td style="text-align:left">Review questions <a href="https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.9.docx">WS 1.9</a> Practice
+          test</td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">Study</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/curriculum-maps/unit1-map#199">1.99</a>​</td>
+      <td
+      style="text-align:left"><em>Unit 1 Test</em>
+        </td>
+        <td style="text-align:left">Test 0 Section I Test 0 Section II</td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">​</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-1xx">1.XX</a>​</td>
+      <td
+      style="text-align:left"><em>Lesson 1.07 Alternative</em>
+        </td>
+        <td style="text-align:left">Ideate and Construct Project</td>
+        <td style="text-align:left">​</td>
+        <td style="text-align:left">​</td>
+    </tr>
+  </tbody>
+</table>## 1.01 <a id="1-01"></a>
 
 | ​[Lesson 1.01](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-101)​ | _Using Eclipse & Practice-It_ |
 | :--- | :--- |
