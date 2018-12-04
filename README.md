@@ -1,7 +1,3 @@
----
-description: Last updated 7 months ago
----
-
 # Introduction
 
 
