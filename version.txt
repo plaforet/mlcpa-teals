@@ -1,0 +1,19 @@
+#-------------------------------------------------------------------------------
+#  TEALS APCSA Curriculum Version
+#
+#  We use semantic versioning (see http://semver.org), so the following value is
+#  of the form MAJOR.MINOR.PATCH.
+#
+#  The PATCH number increments for corrections, fixes and other small changes.
+#
+#  The MINOR number increments (and PATCH is zeroed) when new content is
+#  added or there are significant improvements, but the change is backward
+#  compatible with the prior release.
+#
+#  The MAJOR number increments (and MINOR and PATCH numbers are zeroed) when
+#  there are significant changes that are somehow incompatible with prior
+#  versions. This would happen, for example, if a project was swapped for a
+#  newer project, or if the curriculum was somehow significantly changed.
+#-------------------------------------------------------------------------------
+
+2.0.3
