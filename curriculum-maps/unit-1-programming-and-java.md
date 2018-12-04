@@ -10,7 +10,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 | **LP** | **Title** | **In Class** | **Reading** | **Homework** |
 | :--- | :--- | :--- | :--- | :--- |
-| ​[1.01](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-101)​ | _Using Eclipse & Practice-It_ | ​[WS 1.1.1](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx) [WS 1.1.2](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx)​ | ​ | Explore Pokémon \(pokemon.com, console, web site\) |
+| [​1.01](https://mlcpa-teals.gitbook.io/project/unit-1-programming-and-java/lesson-1.01-using-eclipse-and-practice-it)​ | _Using Eclipse & Practice-It_ | ​[WS 1.1.1](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx) [WS 1.1.2](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx)​ | ​ | Explore Pokémon \(pokemon.com, console, web site\) |
 | ​[1.02](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102)​ | _Algorithms & Computational Thinking_ | PB&J | 1.2 | Reflect on PB&J assignment Continue exploring Pokémon |
 | ​[1.03](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103)​ | _String & Console Output_ | Practice-It SC 1.6–9, 1.11–14 LP Welcome | 1.3 | EX 1.1–5 |
 | ​[1.04](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104)​ | _Common Errors & Comments_ | ​[WS 1.4](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx)​ | 1.4 | EX 1.6–9 |
