@@ -134,7 +134,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | [​Lesson 1.01​](../unit-1-programming-and-java/lesson-1.01-using-eclipse-and-practice-it.md) | _Using Eclipse & Practice-It_ |
 | :--- | :--- |
 | **Objectives** | Students will be able to open Eclipse, create and save a file in Eclipse, and use Practice-It. |
-| Comp Prog II TEKS | 1D, 3C, 5B, 5D, 5E |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E |
 | **Assessments** | Students will demonstrate Plug-In and Un-Plug procedures for the teacher. Students will log in and submit a sample problem in Practice-It. |
 | **In Class** | ​[WS 1.1.1](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.1.docx) [WS 1.1.2](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.1.2.docx)​ |
 | **Reading** | ​ |
@@ -145,7 +145,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.02](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102)​ | _Algorithms & Computational Thinking_ |
 | :--- | :--- |
 | **Objectives** | Students will be able to define algorithms, programs, hardware, software, and operating systems. Students will be able to describe the relationships between these concepts and components. |
-| Comp Prog II TEKS | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
 | **Assessments** | Students will write sample algorithms, assemble and debug a program that directs the instructor to make a peanut butter & jelly sandwich. |
 | **In Class** | PB&J |
 | **Reading** | 1.2 |
@@ -156,7 +156,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.03](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103)​ | _String & Console Output_ |
 | :--- | :--- |
 | **Objectives** | Students will correctly assemble a complete program that uses a class header, body, and main method. Students will correctly use print, println, and escape sequences. |
-| Comp Prog II TEKS | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
 | **Assessments** | Students will create a starter Pokémon program Students will complete several Practice-It questions. |
 | **In Class** | Practice-It SC 1.6–9, 1.11–14 LP Welcome |
 | **Reading** | 1.3 |
@@ -167,7 +167,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.04](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104)​ | _Common Errors & Comments_ |
 | :--- | :--- |
 | **Objectives** | Students will create simple programs with comments Students will be able to list and apply the steps necessary for avoiding syntax errors. |
-| Comp Prog II TEKS | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A,  |
 | **Assessments** | Students will complete a worksheet \(WS 1.4\). Students will develop a personal check-list for spotting syntax errors. |
 | **In Class** | ​[WS 1.4](https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx)​ |
 | **Reading** | 1.4 |
@@ -178,7 +178,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.05](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-105)​ | _Static Methods & Method Calls_ |
 | :--- | :--- |
 | **Objectives** | Students will use procedural decomposition to plan complex programs using structure diagrams. Students will manage complexity by using method calls. |
-| Comp Prog II TEKS | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F, 8M |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M |
 | **Assessments** | Students will complete Practice-It problems. |
 | **In Class** | Practice-It SC 1.22, 1.23, 1.26, 1.29 |
 | **Reading** | 1.5 |
@@ -189,8 +189,9 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.06](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-106)​ | _Static Methods & Method Calls_ |
 | :--- | :--- |
 | **Objectives** | Students will use structure diagrams to plan complex programs. Students will manage complexity by using method calls. |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M, 9A-D, 10B-D |
 | **Assessments** | Students will complete Practice-It problems, students will write a structured Pikachu program. |
-| **In Class** | LP StarFigures LP PikachuChatter |
+| **In Class** | LP StarFigures |
 | **Reading** | ​ |
 | **Homework** | Outline ch 1 PP 1.1, 1.3 |
 
@@ -199,18 +200,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 | ​[Lesson 1.07](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-107)​ | _Programming Project_ |
 | :--- | :--- |
 | **Objectives** | Students will construct a program containing method calls and static methods. |
+| **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M |
 | **Assessments** | Students will submit a complete, functional program by the end of class. |
 | **In Class** | PP 1.2, 1.5 |
 | **Reading** | ​ |
 | **Homework** | Note check \(add summaries if needed\) |
-
-| ​[Lesson 1.08](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-108)​ | _Finding & Fixing Errors_ |
-| :--- | :--- |
-| **Objectives** | Students will find errors in their returned homework assignments, and correct their code. |
-| **Assessments** | Students will re-submit all homework assignments with corrected answers. |
-| **In Class** | Fix homework |
-| **Reading** | Review ch 1 |
-| **Homework** | Submit questions for review |
 
 ## Unit 1 Test <a id="1-99"></a>
 
