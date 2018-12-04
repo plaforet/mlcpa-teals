@@ -4,7 +4,7 @@
 
 The following curriculum map is a day-by-day listing of the AP Computer Science course in chronological order. Each row represents one day of class, based on a medium-paced class. Readings from the textbook and homework assignments are included on the day when they should be assigned. Refer to the Introduction document for information about how to adjust this pacing for your specific classroom.
 
-* ​Unit 1 Slides​
+* [​Unit 1 Slides​](https://github.com/plaforet/mlcpa-teals/blob/master/Unit1/Unit%201%20Slides.pptx)
 * ​Unit 1 Word Bank​
 * ​Curriculum Assets​
 
