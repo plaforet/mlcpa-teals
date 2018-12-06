@@ -37,7 +37,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">Explore Pokémon (pokemon.com, console, web site)</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102">1.02</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/lesson-1.02-algorithms-and-computational-thinking.md">1.02</a>​</td>
       <td
       style="text-align:left"><em>Algorithms & Computational Thinking</em>
         </td>
@@ -46,7 +46,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">Reflect on PB&J assignment Continue exploring Pokémon</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103">1.03</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/lesson-1.03-string-and-console-output.md">1.03</a>​</td>
       <td
       style="text-align:left"><em>String & Console Output</em>
         </td>
@@ -55,17 +55,16 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">EX 1.1–5</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104">1.04</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/untitled.md">1.04</a>​</td>
       <td
       style="text-align:left"><em>Common Errors & Comments</em>
         </td>
-        <td style="text-align:left">​<a href="https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.4.docx">WS 1.4</a>​</td>
-        <td
-        style="text-align:left">1.4</td>
-          <td style="text-align:left">EX 1.6–9</td>
+        <td style="text-align:left">​WS 1.4​</td>
+        <td style="text-align:left">1.4</td>
+        <td style="text-align:left">EX 1.6–9</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-105">1.05</a>​</td>
+      <td style="text-align:left"><a href="../unit-1-programming-and-java/lesson-1.05-static-methods-and-method-calls-1-2.md">​1.05</a>​</td>
       <td
       style="text-align:left"><em>Static Methods & Method Calls</em>
         </td>
@@ -74,7 +73,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">EX 1.11, 1.12, 1.14, 1.16</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-106">1.06</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/lesson-1.06-static-methods-and-method-calls-2-2.md">1.06</a>​</td>
       <td
       style="text-align:left"><em>Static Methods & Method Calls</em>
         </td>
@@ -83,7 +82,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">Outline ch 1 PP 1.1, 1.3</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-107">1.07</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/lesson-1.07-programming-project.md">1.07</a>​</td>
       <td
       style="text-align:left"><em>Programming Project</em>
         </td>
@@ -92,39 +91,11 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
         <td style="text-align:left">Note check (add summaries if needed)</td>
     </tr>
     <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-108">1.08</a>​</td>
-      <td
-      style="text-align:left"><em>Finding & Fixing Errors</em>
-        </td>
-        <td style="text-align:left">Fix homework</td>
-        <td style="text-align:left">Review ch 1</td>
-        <td style="text-align:left">Submit questions for review</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-109">1.09</a>​</td>
-      <td
-      style="text-align:left"><em>Review</em>
-        </td>
-        <td style="text-align:left">Review questions <a href="https://raw.githubusercontent.com/TEALSK12/apcsa-public/master/curriculum/Unit1/WS%201.9.docx">WS 1.9</a> Practice
-          test</td>
-        <td style="text-align:left">​</td>
-        <td style="text-align:left">Study</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/curriculum-maps/unit1-map#199">1.99</a>​</td>
+      <td style="text-align:left">​<a href="../unit-1-programming-and-java/unit-1-test.md">Unit 1 Test</a>​</td>
       <td
       style="text-align:left"><em>Unit 1 Test</em>
         </td>
         <td style="text-align:left">Test 0 Section I Test 0 Section II</td>
-        <td style="text-align:left">​</td>
-        <td style="text-align:left">​</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">​<a href="https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-1xx">1.XX</a>​</td>
-      <td
-      style="text-align:left"><em>Lesson 1.07 Alternative</em>
-        </td>
-        <td style="text-align:left">Ideate and Construct Project</td>
         <td style="text-align:left">​</td>
         <td style="text-align:left">​</td>
     </tr>
@@ -142,7 +113,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.02 <a id="1-02"></a>
 
-| ​[Lesson 1.02](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-102)​ | _Algorithms & Computational Thinking_ |
+| ​[Lesson 1.02](../unit-1-programming-and-java/lesson-1.02-algorithms-and-computational-thinking.md)​ | _Algorithms & Computational Thinking_ |
 | :--- | :--- |
 | **Objectives** | Students will be able to define algorithms, programs, hardware, software, and operating systems. Students will be able to describe the relationships between these concepts and components. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
@@ -153,7 +124,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.03 <a id="1-03"></a>
 
-| ​[Lesson 1.03](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-103)​ | _String & Console Output_ |
+| ​[Lesson 1.03](../unit-1-programming-and-java/lesson-1.03-string-and-console-output.md)​ | _String & Console Output_ |
 | :--- | :--- |
 | **Objectives** | Students will correctly assemble a complete program that uses a class header, body, and main method. Students will correctly use print, println, and escape sequences. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8B, 8F |
@@ -164,7 +135,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.04 <a id="1-04"></a>
 
-| ​[Lesson 1.04](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-104)​ | _Common Errors & Comments_ |
+| ​[Lesson 1.04](../unit-1-programming-and-java/untitled.md)​ | _Common Errors & Comments_ |
 | :--- | :--- |
 | **Objectives** | Students will create simple programs with comments Students will be able to list and apply the steps necessary for avoiding syntax errors. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A,  |
@@ -175,7 +146,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.05 <a id="1-05"></a>
 
-| ​[Lesson 1.05](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-105)​ | _Static Methods & Method Calls_ |
+| ​[Lesson 1.05](../unit-1-programming-and-java/lesson-1.05-static-methods-and-method-calls-1-2.md)​ | _Static Methods & Method Calls_ |
 | :--- | :--- |
 | **Objectives** | Students will use procedural decomposition to plan complex programs using structure diagrams. Students will manage complexity by using method calls. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M |
@@ -186,7 +157,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.06 <a id="1-06"></a>
 
-| ​[Lesson 1.06](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-106)​ | _Static Methods & Method Calls_ |
+| ​[Lesson 1.06](../unit-1-programming-and-java/lesson-1.06-static-methods-and-method-calls-2-2.md)​ | _Static Methods & Method Calls_ |
 | :--- | :--- |
 | **Objectives** | Students will use structure diagrams to plan complex programs. Students will manage complexity by using method calls. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M, 9A-D, 10B-D |
@@ -197,7 +168,7 @@ The following curriculum map is a day-by-day listing of the AP Computer Science 
 
 ## 1.07 <a id="1-07"></a>
 
-| ​[Lesson 1.07](https://tealsk12.gitbook.io/apcsa/unit-1-programming-and-java-2-weeks/lesson-107)​ | _Programming Project_ |
+| ​[Lesson 1.07](../unit-1-programming-and-java/lesson-1.07-programming-project.md)​ | _Programming Project_ |
 | :--- | :--- |
 | **Objectives** | Students will construct a program containing method calls and static methods. |
 | **Comp Prog II TEKS** | 1D, 3C, 5B, 5D, 5E, 6A, 7B, 7E, 7F, 8A, 8M |

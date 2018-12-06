@@ -20,3 +20,12 @@
 * [Lesson 1.07: Programming Project](unit-1-programming-and-java/lesson-1.07-programming-project.md)
 * [Unit 1 Test](unit-1-programming-and-java/unit-1-test.md)
 
+## Unit 2: Working with Data & Basic Control Flow
+
+* [Lesson 2.00: Test Review & Reteach](unit-2-working-with-data-and-basic-control-flow/lesson-2.00-test-review-and-reteach.md)
+* [Lesson 2.01: Basic Data Concepts](unit-2-working-with-data-and-basic-control-flow/lesson-2.01-basic-data-concepts.md)
+* [Lesson 2.02: Declaring & Assigning Variables](unit-2-working-with-data-and-basic-control-flow/lesson-2.02-declaring-and-assigning-variables.md)
+* [Lesson 2.03: String Concatenation & Increment Decrement Operators](unit-2-working-with-data-and-basic-control-flow/lesson-2.03-string-concatenation-and-increment-decrement-operators.md)
+* [Lesson 2.04: Mixing Types & Casting](unit-2-working-with-data-and-basic-control-flow/lesson-2.04-mixing-types-and-casting.md)
+* [Lesson 2.05: for Loops](unit-2-working-with-data-and-basic-control-flow/lesson-2.05-for-loops.md)
+
