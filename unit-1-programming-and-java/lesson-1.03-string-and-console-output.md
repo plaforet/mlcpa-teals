@@ -122,8 +122,8 @@ Write a program called Welcome that outputs the following:
 
 ```text
 Pikachu welcomes you to the world of Pokémon!​ 
-  (\__/) 
-  (o^.^)
+ (\__/) 
+ (o^.^)
 z(_(")(")
 ```
 

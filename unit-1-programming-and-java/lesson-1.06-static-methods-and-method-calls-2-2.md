@@ -130,13 +130,13 @@ _Write a program called PikachuChatter that outputs the following:_
 
 ```text
 Pika pika pika chu pika chu peeeee ka pika chu! 
-  (\__/) 
-  (o^.^)
+ (\__/) 
+ (o^.^)
 z(_(")(")
 
 ​Pika? Pika pika pika chu peeeee ka chu! 
-  (\__/) 
-  (o^.^)
+ (\__/) 
+ (o^.^)
 z(_(")(")
 ```
 
